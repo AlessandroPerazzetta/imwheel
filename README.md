@@ -1,5 +1,4 @@
-# imwheel
-Mouse wheel speed settings
+# Mouse wheel speed settings
 
 ```
 $ apt install imwheel
